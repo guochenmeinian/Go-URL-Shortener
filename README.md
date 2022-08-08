@@ -4,6 +4,7 @@
 
 ## Some comments
 
+#### After starting this app, go to
 #### [localhost:3000/api/v1](http://localhost:3000)
 #### You can use Postman or other testing tools to send post request 
 #### A json format response should be returned, with generated short url, along with
